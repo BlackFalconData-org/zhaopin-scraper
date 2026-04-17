@@ -2,11 +2,12 @@
 
 Extract structured data from [zhaopin.com](https://zhaopin.com) — structured job listings from zhaopin.com API.
 
-**[Zhaopin Scraper on Apify →](https://apify.com/blackfalcondata/zhaopin-scraper)**
+**[Zhaopin Scraper - China Job Listings on Apify →](https://apify.com/blackfalcondata/zhaopin-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [zhaopin.com](https://zhaopin.com) — structured j
 ---
 
 ## Use cases
+
 
 
 
@@ -80,6 +82,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
